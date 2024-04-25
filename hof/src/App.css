@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(222, 222, 226);
+}
+.display-box {
+  border: 1px solid #1601ff;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.list-elements {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  color: blue;
+  border-bottom: 1px solid #1100fe;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.list-elements span {
+  display: block;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: #000000;
+  margin-bottom: 10px;
+  text-align: center;
+}
